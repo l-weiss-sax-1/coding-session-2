@@ -5,7 +5,7 @@ As requested I've put up this repository for you guys to see the code we have cr
 If you want to get this code, here are the steps: 
 
 1. if you haven't already, download 'git' with the add/remove software
-2. you can press the green 'clone' button to get the https or ssl clone link
+2. you can press the green 'code' button on top of this page, to get the https or ssl clone link
 3. go to your terminal and go to the location you want this code to live, i.e. '```mkdir projects && cd projects```'
 4. now do ```git clone <here the copied link>```
 5. code should now be downloaded and you should be able to see it if you open the folder with vscode!
